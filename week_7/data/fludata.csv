@@ -1,6 +1,4 @@
-Category: All categories
-
-Week,flu symptoms: (United Kingdom),flu jab: (United Kingdom),flu: (United Kingdom)
+week,flu_symptoms,flu_jab,flu
 2010-05-02,<1,<1,4
 2010-05-09,1,<1,5
 2010-05-16,1,0,4
