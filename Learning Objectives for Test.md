@@ -4,6 +4,8 @@ Please read through – if you are unsure of what an objective covers please ema
 
 As the test is open book it is a good idea to make a notebook (or set of notebooks) that collect examples of the skills below as a reference.
 
+---
+
 ## GENERAL
 
  - print information to the screen
@@ -13,6 +15,8 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
  - know the key data types used in Python and how to define them (int float bool str list dict tuple)
 
  - know which data types are mutable and which are immutable
+
+---
 
 ## FUNCTIONS
 
@@ -24,6 +28,8 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
  - understand that variables created inside a function have local scope only
  - how to create a global variable within a function
 
+---
+
 ## MATHS
 
  - understand the difference between int and float data types
@@ -33,6 +39,8 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
  - rounding numbers
  - formatting numbers for display using f-strings
  - using scientific notation
+
+---
 
 ## CONDITIONS
 
@@ -44,6 +52,8 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
  - combining test conditions using and, or, not etc.
  - combining a series of tests in an "if elif else"
 
+---
+
 ## LOOPS
 
  - set up a for loop
@@ -52,7 +62,10 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
  - be able to loop a set number of times
  - set up a nested loop
 
+---
+
 ## STRINGS
+
  - how to create strings
  - how to add newline / tab characters in a string
  - allowed string operations:
@@ -64,7 +77,10 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
  - insert Python variables or information data into strings using f-strings
  - know how to specify formats when using f-strings
 
+---
+
 ## LISTS
+
 creating a list
 finding the length of a list
 changing the contents of a list
@@ -75,32 +91,46 @@ ways to slice a list
 working with nested lists (i.e. a list within a list)
 looping over elements in the list
 
+---
+
 ## DICTIONARIES
+
 creating a Python dictionary, (with initial data)
 adding to/updating information in a Python dictionary
 accessing data in a dictionary
 looping over elements in a dictionary
 
+---
+
 ## TUPLES
+
 creating a tuple
 accessing data in a tuple
 understand difference between tuples and lists
 looping over elements in the tuple
 
+---
+
 ## FILE ACCESS
+
 how to open a file in Python for reading
 get next line of text from a file
 loop over each lines of text in a file
 read all text from a file
 write text to a file
 
+---
+
 ## CLASSES 
+
 defining an object class (and its __init__ function) based on specified attributes
 adding class method functions
 adding a __str__ method that displays the stored object's information
 adding an  __eq__  class method to compare objects
 creating and importing a class using a .py code file
 save and load class objects using the pickle module
+
+---
 
 ## WORKING WITH NUMPY
 
@@ -119,6 +149,7 @@ save and load class objects using the pickle module
 
 - understand the key differences between numpy arrays and Python lists
 
+---
 
 
 ## WORKING WITH MATPLOTLIB
@@ -139,6 +170,7 @@ save and load class objects using the pickle module
 - know how to set axes ranges and axes labels
 - be able to add a text label to a plot
 
+---
 
 ## WORKING WITH PANDAS
 
