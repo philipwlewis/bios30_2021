@@ -1,64 +1,70 @@
-## BIOS0030 Learning Objectives for Test
+# BIOS0030 Learning Objectives for Test
 
 Please read through – if you are unsure of what an objective covers please email me at philip.lewis@ucl.ac.uk for further details or an code example. 
 
 As the test is open book it is a good idea to make a notebook (or set of notebooks) that collect examples of the skills below as a reference.
 
-### GENERAL
+## GENERAL
 
-print information to the screen
-know how Python uses indentation to indicate code blocks
-know the key data types used in Python and how to define them (int float bool str list dict tuple)
-know which data types are mutable and which are immutable
+ - print information to the screen
 
-###FUNCTIONS
-how to write a Python function
- - how to define a function
- - setting and using input arguments
- - how to return output
-how to use a function
-understand that variables created inside a function have local scope only
-how to create a global variable within a function
+ - know how Python uses indentation to indicate code blocks
 
-MATHS
-understand the difference between int and float data types
-calculate a sequence given a formula
-using Python to perform calculations
-importing and using common functions (sqrt, sin, cos, log) from Python's math module
-rounding numbers
-formatting numbers for display using f-strings
-using scientific notation
+ - know the key data types used in Python and how to define them (int float bool str list dict tuple)
 
-CONDITIONS
-using the if command
-if conditions that test a string
-if conditions that test numbers
-working with boolean values (True and False)
-test if greater/less/equal to etc.
-combining test conditions using and, or, not etc.
-combining a series of tests in an "if elif else"
+ - know which data types are mutable and which are immutable
 
-LOOPS
-set up a for loop
-set up a while loop
-be able to loop over items in a list
-be able to loop a set number of times
-set up a nested loop
+## FUNCTIONS
 
- 
-STRINGS
-how to create strings
-how to add newline / tab characters in a string
-allowed string operations:
+ - how to write a Python function
+     - how to define a function
+     - setting and using input arguments
+     - how to return output
+ - how to use a function
+ - understand that variables created inside a function have local scope only
+ - how to create a global variable within a function
+
+## MATHS
+
+ - understand the difference between int and float data types
+ - calculate a sequence given a formula
+ - using Python to perform calculations
+ - importing and using common functions (sqrt, sin, cos, log) from Python's math module
+ - rounding numbers
+ - formatting numbers for display using f-strings
+ - using scientific notation
+
+## CONDITIONS
+
+ - using the if command
+ - if conditions that test a string
+ - if conditions that test numbers
+ - working with boolean values (True and False)
+ - test if greater/less/equal to etc.
+ - combining test conditions using and, or, not etc.
+ - combining a series of tests in an "if elif else"
+
+## LOOPS
+
+ - set up a for loop
+ - set up a while loop
+ - be able to loop over items in a list
+ - be able to loop a set number of times
+ - set up a nested loop
+
+## STRINGS
+ - how to create strings
+ - how to add newline / tab characters in a string
+ - allowed string operations:
     - joining strings,
     - accessing characters using an index
     - finding length
     - slicing
-convert variables (e.g. numbers) into strings and vice versa
-insert Python variables or information data into strings using f-strings
-know how to specify formats when using f-strings
+ - convert variables (e.g. numbers) into strings and vice versa
+ - insert Python variables or information data into strings using f-strings
+ - know how to specify formats when using f-strings
 
-LISTS
+## LISTS
 creating a list
 finding the length of a list
 changing the contents of a list
@@ -69,34 +75,34 @@ ways to slice a list
 working with nested lists (i.e. a list within a list)
 looping over elements in the list
 
-DICTIONARIES
+## DICTIONARIES
 creating a Python dictionary, (with initial data)
 adding to/updating information in a Python dictionary
 accessing data in a dictionary
 looping over elements in a dictionary
 
-TUPLES
+## TUPLES
 creating a tuple
 accessing data in a tuple
 understand difference between tuples and lists
 looping over elements in the tuple
 
-FILE ACCESS
+## FILE ACCESS
 how to open a file in Python for reading
 get next line of text from a file
 loop over each lines of text in a file
 read all text from a file
 write text to a file
 
-CLASSES 
+## CLASSES 
 defining an object class (and its __init__ function) based on specified attributes
 adding class method functions
 adding a __str__ method that displays the stored object's information
 adding an  __eq__  class method to compare objects
 creating and importing a class using a .py code file
 save and load class objects using the pickle module
- 
-WORKING WITH NUMPY
+
+## WORKING WITH NUMPY
 
 - store data into a numpy array (e.g. convert a list to a 1D numpy array, or create a 2D numpy array from a list of lists)
 - create a 1D or 2D array filled with an initial value
@@ -115,7 +121,7 @@ WORKING WITH NUMPY
 
 
 
-WORKING WITH MATPLOTLIB
+## WORKING WITH MATPLOTLIB
 
 - know how to use the inline and notebook modes for matplotlib in Jupyter notebooks
 
@@ -134,8 +140,7 @@ WORKING WITH MATPLOTLIB
 - be able to add a text label to a plot
 
 
- 
-WORKING WITH PANDAS
+## WORKING WITH PANDAS
 
 - load in a csv file into a dataframe
 - create a dataframe using a list of lists, containing data row by row
@@ -158,8 +163,7 @@ WORKING WITH PANDAS
 - select a subset of the data using a condition
 
 - apply a simple transformation to generate a new column (change units, take log)
-- use a formula to generate new columns based on existing columns e.g. bmi = (height**2)/mass
-
+- use a formula to generate new columns based on existing columns e.g. `bmi = (height**2)/mass`
 - sort a dataframe either using labels or by column values
 
 - make a scatter plot with x and y values based on columns from the data frame
