@@ -81,54 +81,54 @@ As the test is open book it is a good idea to make a notebook (or set of noteboo
 
 ## LISTS
 
-creating a list
-finding the length of a list
-changing the contents of a list
-appending to a list
-removing items from a list
-ways to address elements using indices
-ways to slice a list
-working with nested lists (i.e. a list within a list)
-looping over elements in the list
+ - creating a list
+ - finding the length of a list
+ - changing the contents of a list
+ - appending to a list
+ - removing items from a list
+ - ways to address elements using indices
+ - ways to slice a list
+ - working with nested lists (i.e. a list within a list)
+ - looping over elements in the list
 
 ---
 
 ## DICTIONARIES
 
-creating a Python dictionary, (with initial data)
-adding to/updating information in a Python dictionary
-accessing data in a dictionary
-looping over elements in a dictionary
+ - creating a Python dictionary, (with initial data)
+ - adding to/updating information in a Python dictionary
+ - accessing data in a dictionary
+ - looping over elements in a dictionary
 
 ---
 
 ## TUPLES
 
-creating a tuple
-accessing data in a tuple
-understand difference between tuples and lists
-looping over elements in the tuple
+ - creating a tuple
+ - accessing data in a tuple
+ - understand difference between tuples and lists
+ - looping over elements in the tuple
 
 ---
 
 ## FILE ACCESS
 
-how to open a file in Python for reading
-get next line of text from a file
-loop over each lines of text in a file
-read all text from a file
-write text to a file
+ - how to open a file in Python for reading
+ - get next line of text from a file
+ - loop over each lines of text in a file
+ - read all text from a file
+ - write text to a file
 
 ---
 
 ## CLASSES 
 
-defining an object class (and its __init__ function) based on specified attributes
-adding class method functions
-adding a __str__ method that displays the stored object's information
-adding an  __eq__  class method to compare objects
-creating and importing a class using a .py code file
-save and load class objects using the pickle module
+ - defining an object class (and its __init__ function) based on specified attributes
+ - adding class method functions
+ - adding a __str__ method that displays the stored object's information
+ - adding an  __eq__  class method to compare objects
+ - creating and importing a class using a .py code file
+ - save and load class objects using the pickle module
 
 ---
 
