@@ -1,0 +1,9 @@
+﻿id,frequency,age,group,sex,filename
+f1o01,250,77,old, F,f1o01_ann.csv
+f1o02,250,73,old, F,f1o02_ann.csv
+f1o03,250,73,old, M,f1o03_ann.csv
+f1o04,250,81,old, M,f1o04_ann.csv
+f1y01,250,23,young, F,f1y01_ann.csv
+f1y02,250,28,young, F,f1y02_ann.csv
+f1y03,250,34,young, M,f1y03_ann.csv
+f1y04,250,31,young, M,f1y04_ann.csv
